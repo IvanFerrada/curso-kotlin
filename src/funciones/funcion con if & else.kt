@@ -1,3 +1,5 @@
+package funciones
+
 fun main (args: Array<String>){
 
     println(mayorEdad(18))
@@ -12,7 +14,7 @@ fun main (args: Array<String>){
 
 fun mayorEdad (edad: Int) = if (edad >= 18) true else false
 
-/* otro ejemplo*/
+/* otro funciones.ejemplo*/
 
 fun ejemplo (bloque: Int) = if(bloque >= 18){
 

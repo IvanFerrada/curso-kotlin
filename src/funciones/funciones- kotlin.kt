@@ -1,11 +1,13 @@
+package funciones
+
 /* comentario en kotlin */
 
 fun main (args: Array<String>){
     println("hola mundo")
 
-   println(suma(20,50))
+   println(suma(20, 50))
 
-   println(resta(80,40))
+   println(resta(80, 40))
 }
 
 fun suma(a : Int, b : Int ): Int{

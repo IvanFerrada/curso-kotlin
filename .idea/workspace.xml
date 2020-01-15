@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba4185e-bf3f-49f9-b543-53ac105e6a4c" name="Default Changelist" comment="" />
+    <list default="true" id="2ba4185e-bf3f-49f9-b543-53ac105e6a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeradores.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/clases.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/distribuir codigo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello world/hola mundo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persona/Persona.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ejemplo con entrada scanner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variables/variables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso -kotlin/Funcion_con_if___elseKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso -kotlin/Funciones__kotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso -kotlin/Hola_mundoKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso -kotlin/META-INF/curso -kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curso -kotlin/META-INF/curso -kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funcion con if &amp; else.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funciones/funcion con if &amp; else.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funciones- kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funciones/funciones- kotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hola mundo.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +27,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WNIxyQqyMs55cPG4cbzlJNP3l8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,46 +45,85 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.Funcion_con_if___elseKt">
-    <configuration name="Funcion_con_if___elseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="persona" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/clases" />
+      <recent name="$PROJECT_DIR$/src/hello world" />
+      <recent name="$PROJECT_DIR$/src/scanner" />
+      <recent name="$PROJECT_DIR$/src/funciones" />
+      <recent name="$PROJECT_DIR$/src/variables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.EnumeradoresKt">
+    <configuration name="Distribuir_codigoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="curso -kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Funcion_con_if___elseKt" />
+      <option name="MAIN_CLASS_NAME" value="Distribuir_codigoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funciones__kotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="EnumeradoresKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="curso -kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Funciones__kotlinKt" />
+      <option name="MAIN_CLASS_NAME" value="EnumeradoresKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hola_mundoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="clases.ClasesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="curso -kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Hola_mundoKt" />
+      <option name="MAIN_CLASS_NAME" value="clases.ClasesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scanner.Ejemplo_con_entrada_scannerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="curso -kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="scanner.Ejemplo_con_entrada_scannerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variables.VariablesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="curso -kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="variables.VariablesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,9 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Funcion_con_if___elseKt" />
-        <item itemvalue="Kotlin.Funciones__kotlinKt" />
-        <item itemvalue="Kotlin.Hola_mundoKt" />
+        <item itemvalue="Kotlin.EnumeradoresKt" />
+        <item itemvalue="Kotlin.clases.ClasesKt" />
+        <item itemvalue="Kotlin.Distribuir_codigoKt" />
+        <item itemvalue="Kotlin.scanner.Ejemplo_con_entrada_scannerKt" />
+        <item itemvalue="Kotlin.variables.VariablesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -105,22 +169,42 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="555" y="216" width="802" height="676" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1578984468676" />
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1578987511684">
+    <state x="713" y="192" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1579053286894">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1578987511684" />
-    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1578987511683">
+    <state x="713" y="192" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1579053286894" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1579059842766">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1578987511683" />
-    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1578987511683">
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1579059842766" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1579059842766">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1578987511683" />
-    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1578987511683">
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1579059842766" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1579059842765">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1578987511683" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1579059842765" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1579059842766">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1579059842766" />
+    <state width="1874" height="343" key="GridCell.Tab.1.bottom" timestamp="1578994442479">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1578994442479" />
+    <state width="1874" height="343" key="GridCell.Tab.1.center" timestamp="1578994442479">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.center/0.28.1920.1052@0.28.1920.1052" timestamp="1578994442479" />
+    <state width="1874" height="343" key="GridCell.Tab.1.left" timestamp="1578994442479">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.left/0.28.1920.1052@0.28.1920.1052" timestamp="1578994442479" />
+    <state width="1874" height="343" key="GridCell.Tab.1.right" timestamp="1578994442479">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1578994442479" />
     <state x="449" y="189" key="SettingsEditor" timestamp="1578985618044">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
@@ -129,9 +213,35 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="623" y="391" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1578986629495" />
+    <state x="728" y="474" width="456" height="159" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579044557848">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="728" y="474" width="456" height="159" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1579044557848" />
     <state x="623" y="254" key="run.anything.popup" timestamp="1578985910870">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="623" y="254" key="run.anything.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1578985910870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/scanner/ejemplo con entrada scanner.kt</url>
+          <line>3</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/persona/Persona.kt</url>
+          <line>2</line>
+          <properties class="la.curso.kotlin.distribuircodigo.Persona.Persona" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
